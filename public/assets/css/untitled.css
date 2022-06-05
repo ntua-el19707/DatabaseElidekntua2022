@@ -1,0 +1,14 @@
+nav ul {
+  background: #4a6774;
+  overflow: hidden;
+  color: white;
+  padding: 0;
+  text-align: center;
+  margin: 0;
+  -webkit-transition: max-height 0.9s;
+  -ms-transition: max-height 0.9s;
+  -moz-transition: max-height 0.9s;
+  -o-transition: max-height 0.9s;
+  transition: max-height 0.9s;
+}
+
